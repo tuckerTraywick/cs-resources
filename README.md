@@ -4,6 +4,8 @@ Helpful links and stuff.
 
 ## Assembly Programming
 
-NASM Tutorial: https://cs.lmu.edu/~ray/notes/nasmtutorial/
+NASM tutorial: https://cs.lmu.edu/~ray/notes/nasmtutorial/
 
-GNU Assembler Tutorial: https://cs.lmu.edu/~ray/notes/gasexamples/
+GNU assembler tutorial: https://cs.lmu.edu/~ray/notes/gasexamples/
+
+Linux syscall table: https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
