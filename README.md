@@ -4,6 +4,8 @@ Helpful links and stuff.
 
 ## Assembly Programming
 
+Github assembly tutorial: https://github.com/mschwartz/assembly-tutorial
+
 NASM examples: https://cs.lmu.edu/~ray/notes/nasmtutorial/
 
 GNU assembler examples: https://cs.lmu.edu/~ray/notes/gasexamples/
