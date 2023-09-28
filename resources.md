@@ -2,7 +2,7 @@
 
 Helpful links and stuff.
 
-## Assembly Programming
+## Assembly
 
 Github assembly tutorial: https://github.com/mschwartz/assembly-tutorial
 
