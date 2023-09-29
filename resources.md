@@ -17,3 +17,7 @@ Linux syscall table: https://chromium.googlesource.com/chromiumos/docs/+/master/
 ## C / C++
 
 Makefile cookbook: https://makefiletutorial.com/#makefile-cookbook
+
+## Linux
+
+Online man pages: https://man7.org/linux/man-pages/index.html
