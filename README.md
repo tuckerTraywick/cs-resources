@@ -17,6 +17,10 @@ Linux syscall table: https://chromium.googlesource.com/chromiumos/docs/+/master/
 
 Makefile cookbook: https://makefiletutorial.com/#makefile-cookbook
 
+## Compiler Design
+
+Precedence climbing: https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing
+
 ## Linux
 
 Online man pages: https://man7.org/linux/man-pages/index.html
