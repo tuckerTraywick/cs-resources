@@ -21,9 +21,14 @@ C static libraries: https://medium.com/@bdov_/https-medium-com-bdov-c-static-lib
 
 C dynamic libraries: https://medium.com/@bdov_/https-medium-com-bdov-c-dynamic-libraries-what-why-and-how-66cf777019a7
 
-## Compiler Design
+## Compilers
 
 Precedence climbing: https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing
+
+Precedence climbing (2): https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm
+
+Pratt parsing: https://www.engr.mun.ca/~theo/Misc/pratt_parsing.htm
+
 
 ## Linux
 
