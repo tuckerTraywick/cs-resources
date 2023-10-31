@@ -1,5 +1,5 @@
 # cs-resources
-Helpful links and stuff.
+Helpful links.
 
 ## Assembly
 
