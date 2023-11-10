@@ -29,6 +29,9 @@ Precedence climbing (2): https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm
 
 Pratt parsing: https://www.engr.mun.ca/~theo/Misc/pratt_parsing.htm
 
+## Low Level
+
+Memory layouts in Go: https://go101.org/article/memory-layout.html
 
 ## Linux
 
