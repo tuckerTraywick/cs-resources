@@ -23,6 +23,8 @@ C dynamic libraries: https://medium.com/@bdov_/https-medium-com-bdov-c-dynamic-l
 
 Printf a limited number of characters from a string: https://embeddedartistry.com/blog/2017/07/05/printf-a-limited-number-of-characters-from-a-string/
 
+pthreads tutorial: https://hpc-tutorials.llnl.gov/posix/what_are_pthreads/
+
 ## Compilers
 
 Precedence climbing: https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing
