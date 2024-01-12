@@ -1,5 +1,6 @@
 # cs-resources
-Helpful links.
+
+Links to computer science resources.
 
 ## Assembly
 
@@ -21,7 +22,7 @@ C static libraries: https://medium.com/@bdov_/https-medium-com-bdov-c-static-lib
 
 C dynamic libraries: https://medium.com/@bdov_/https-medium-com-bdov-c-dynamic-libraries-what-why-and-how-66cf777019a7
 
-Printf a limited number of characters from a string: https://embeddedartistry.com/blog/2017/07/05/printf-a-limited-number-of-characters-from-a-string/
+How to print a limited number of characters from a string: https://embeddedartistry.com/blog/2017/07/05/printf-a-limited-number-of-characters-from-a-string/
 
 pthreads tutorial: https://hpc-tutorials.llnl.gov/posix/what_are_pthreads/
 
@@ -40,3 +41,7 @@ Memory layouts in Go: https://go101.org/article/memory-layout.html
 ## Linux
 
 Online man pages: https://man7.org/linux/man-pages/index.html
+
+## Web Development
+
+Mozilla web development tutorial: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
