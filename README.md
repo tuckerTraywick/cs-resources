@@ -38,6 +38,8 @@ Pratt parsing: https://www.engr.mun.ca/~theo/Misc/pratt_parsing.htm
 
 Memory layouts in Go: https://go101.org/article/memory-layout.html
 
+Overwriting a process's memory in Linux: https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/
+
 ## Linux
 
 Online man pages: https://man7.org/linux/man-pages/index.html
