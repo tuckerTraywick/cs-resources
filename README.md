@@ -26,6 +26,8 @@ How to print a limited number of characters from a string: https://embeddedartis
 
 pthreads tutorial: https://hpc-tutorials.llnl.gov/posix/what_are_pthreads/
 
+An alternative to malloc() and free(): https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator
+
 ## Compilers
 
 Precedence climbing: https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing
